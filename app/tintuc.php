@@ -4,7 +4,7 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class TinTuc extends Model
+class tintuc extends Model
 {
     //
     protected $table = 'news';
